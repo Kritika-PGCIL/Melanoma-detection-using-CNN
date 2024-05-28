@@ -3,7 +3,7 @@ This project is an attempt to build multiclass classification model using a cust
 
 
 ## Table of Contents
-* [General Info]
+* General Info
 * [Technologies Used]
 * [Conclusions]
 * [Acknowledgements]
