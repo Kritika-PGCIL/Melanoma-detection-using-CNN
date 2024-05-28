@@ -4,9 +4,9 @@ This project is an attempt to build multiclass classification model using a cust
 
 ## Table of Contents
 * General Info
-* [Technologies Used]
-* [Conclusions]
-* [Acknowledgements]
+* Technologies Used
+* Conclusions
+* Acknowledgements
 
 
 ## General Information
@@ -22,11 +22,11 @@ This project is an attempt to build multiclass classification model using a cust
 
 ## Technologies Used
 
-*Python 3.x
-*TensorFlow 2.x
-*Keras
-*Matplotlib
-*NumPy
+* Python 3.x
+* TensorFlow 2.x
+* Keras
+* Matplotlib
+* NumPy
 
 
 ## Conclusions
